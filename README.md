@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Certifications
+
+- Certified Kubernetes Administration (CKA)
+- AWS Solution Architect Associate (AWS SA)
+- Google Cloud Associate Engineer
+- Certified Scrum Master (CSM)
