@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### Certifications
 
 - Certified Kubernetes Administration (CKA)
+- Certified Kubernetes Application Developer (CKAD)
 - Certified AWS Solution Architect Associate (AWS SA)
 - Certified Google Cloud Associate Engineer
 - Certified DevOps Master
